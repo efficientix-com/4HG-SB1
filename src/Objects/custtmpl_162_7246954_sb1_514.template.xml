@@ -155,7 +155,7 @@
                     <tr>
                         <td>
                             ESTE DOCUMENTO ES UNA REPRESENTACIÓN IMPRESA DE UN CFDI. <br />
-                            ${custrecord_tko_leyenda}
+                            ${record.custrecord_tko_leyenda}
                         </td>
                         <td align="right">
                             <pagenumber/>
