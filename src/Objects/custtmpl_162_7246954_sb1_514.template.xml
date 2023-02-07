@@ -153,10 +153,10 @@
             <macro id="nlfooter">
                 <table class="footer" style="width: 100%;">
                     <tr>
-                      <td>Representación impresa de CFDI</td>
-
-
-
+                        <td>
+                            ESTE DOCUMENTO ES UNA REPRESENTACIÓN IMPRESA DE UN CFDI. <br />
+                            ${custrecord_tko_leyenda}
+                        </td>
                         <td align="right">
                             <pagenumber/>
                             de

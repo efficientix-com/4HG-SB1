@@ -517,7 +517,7 @@
                         style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">Unidad
                     </th>
                     <th align="center" colspan="5"
-                        style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
+                        style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
                     </th>
                     <th align="center" colspan="4"
                         style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Cantidad
@@ -727,7 +727,7 @@
                     <th align="center" colspan="2" style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">
                         Unidad
                     </th>
-                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
+                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
                     </th>
                     <th align="center" colspan="4" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">
                         Cantidad
@@ -931,7 +931,7 @@ ${dataXML.Conceptos.Concepto.atributos.Descripcion}</td>
                     <th align="center" colspan="2" style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">
                         Unidad
                     </th>
-                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
+                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
                     </th>
                     <th align="center" colspan="4" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">
                         Cantidad
