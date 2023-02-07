@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_163_7246954_sb1_231" standard="STDTMPLEMPTY">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>EFX FE - Invoice Template UNHVAC</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
