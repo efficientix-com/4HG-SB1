@@ -166,14 +166,15 @@
                 </table>
             </macro>
         </macrolist>
-        <style type="text/css">* {
-            <#if .locale == "zh_CN"> font-family: NotoSans, NotoSansCJKsc, sans-serif;
-            <#elseif .locale == "zh_TW"> font-family: NotoSans, NotoSansCJKtc, sans-serif;
-            <#elseif .locale == "ja_JP"> font-family: NotoSans, NotoSansCJKjp, sans-serif;
-            <#elseif .locale == "ko_KR"> font-family: NotoSans, NotoSansCJKkr, sans-serif;
-            <#elseif .locale == "th_TH"> font-family: NotoSans, NotoSansThai, sans-serif;
-            <#else> font-family: NotoSans, sans-serif;
-            </#if>
+        <style type="text/css">
+            * {
+                <#if .locale == "zh_CN"> font-family: NotoSans, NotoSansCJKsc, sans-serif;
+                <#elseif .locale == "zh_TW"> font-family: NotoSans, NotoSansCJKtc, sans-serif;
+                <#elseif .locale == "ja_JP"> font-family: NotoSans, NotoSansCJKjp, sans-serif;
+                <#elseif .locale == "ko_KR"> font-family: NotoSans, NotoSansCJKkr, sans-serif;
+                <#elseif .locale == "th_TH"> font-family: NotoSans, NotoSansThai, sans-serif;
+                <#else> font-family: NotoSans, sans-serif;
+                </#if>
             }
 
             table {
