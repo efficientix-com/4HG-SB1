@@ -517,7 +517,7 @@
                         style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">Unidad
                     </th>
                     <th align="center" colspan="5"
-                        style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
+                        style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
                     </th>
                     <th align="center" colspan="4"
                         style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Cantidad
@@ -727,7 +727,7 @@
                     <th align="center" colspan="2" style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">
                         Unidad
                     </th>
-                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
+                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
                     </th>
                     <th align="center" colspan="4" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">
                         Cantidad
@@ -931,7 +931,7 @@ ${dataXML.Conceptos.Concepto.atributos.Descripcion}</td>
                     <th align="center" colspan="2" style="font-size: 4pt; padding-left: 0px; padding-right: 0px;">
                         Unidad
                     </th>
-                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">UPC
+                    <th align="center" colspan="5" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">Serie
                     </th>
                     <th align="center" colspan="4" style="font-size: 5pt; padding-left: 0px; padding-right: 0px;">
                         Cantidad
@@ -1511,18 +1511,18 @@ ${dataXML.Conceptos.Concepto.atributos.Descripcion}</td>
                     <td colspan="3" style="font-weight: bold;border-top:1px;border-bottom:1px;border-color: #e3e3e3;">UUID</td>
                     </tr>
                     <#list record.recmachcustrecord_mx_rcs_orig_trans as cfdiRelType>
-                    
+
                         <tr style="border-left: 1px;border-right: 1px; border-color: #e3e3e3;font-size:90%; padding-left: 12px;font-size: 6pt;">
                             <td colspan="2" style="font-weight: bold;border-bottom:1px;border-right:1px;border-color: #e3e3e3;">
                                 ${cfdiRelType.custrecord_mx_rcs_rel_cfdi}
                             </td>
-                        
-                        
+
+
                             <td colspan="3" style="font-weight: bold;border-bottom:1px;border-right:1px;border-color: #e3e3e3;">
                                 ${cfdiRelType.custrecord_mx_rcs_rel_type}
                             </td>
-                        
-                        
+
+
                             <td colspan="3" style="font-weight: bold;border-bottom:1px;border-color: #e3e3e3;">
                                 ${cfdiRelType.custrecord_mx_rcs_uuid}
                             </td>
