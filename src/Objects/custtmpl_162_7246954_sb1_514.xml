@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_162_7246954_sb1_514" standard="STDTMPLEMPTY">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>T</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>EFX FE - Invoice Template Bravo Montacargas</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
